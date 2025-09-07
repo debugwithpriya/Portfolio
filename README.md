@@ -28,7 +28,7 @@ portfolio/
 │── README.md # Project documentation
 
 ## 🔗 Live Demo
-[👉 View Portfolio](https://debugwithpriya.github.io/portfolio/)  
+[👉 View Portfolio](https://debugwithpriya.github.io/Portfolio/)  
 
 ## 📬 Contact Me
 - 📧 Email: [priyajain.26march@gmail.com](mailto:priyajain.26march@gmail.com)  
@@ -37,8 +37,5 @@ portfolio/
 
 ---
 
-⭐ If you like this project, don’t forget to **star the repo**!
-
-
-## 📂 Project Structure
+⭐ If you like this project, don’t forget to **star the repo** 
 
